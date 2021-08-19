@@ -1,0 +1,26 @@
+.body_backround{
+    background-image: url(UNICORN.jpg);
+    background-position: center;
+    background-size: cover;
+}
+body{
+    cursor: pointer;
+}
+h1{
+    color: blueviolet;
+    font-size: 40px;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: oldlace;
+    border-style: ridge;
+}
+
+button{
+    background-color: deeppink;
+    border: none;
+    color: mediumorchid;
+    padding: 10px 42px;
+    font-size: 16px;
+}
